@@ -1,0 +1,14 @@
+cryptography
+watchdog
+tk
+matplotlib
+pyparsing
+numpy
+pillow
+python-dateutil
+six
+cffi
+contourpy
+cycler
+fonttools
+kiwisolver

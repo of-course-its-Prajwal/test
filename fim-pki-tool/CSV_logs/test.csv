@@ -1,0 +1,17 @@
+Time,Action,File,Anomaly
+▶️,Monitoring,started:,E:/5
+⏹️,Monitoring,STOPPED,False
+▶️,Monitoring,started:,E:/5
+[14:02:48],DELETED:,testt,False
+[14:04:10],CREATED:,New,Text Document.txt
+[14:05:49],CREATED:,desktop.ini,False
+[14:05:56],MODIFIED:,desktop.ini,False
+[14:05:59],MODIFIED:,desktop.ini,False
+[14:06:00],MODIFIED:,desktop.ini,False
+[14:06:01],MODIFIED:,desktop.ini,False
+[14:06:02],MODIFIED:,desktop.ini,False
+[14:07:07],CREATED:,ssss.zip,False
+[14:07:13],MODIFIED:,ssss.zip,False
+[14:07:24],DELETED:,ssss.zip,False
+[14:07:30],DELETED:,ssss.txt,False
+[14:07:43],DELETED:,sssss,False
