@@ -19,7 +19,8 @@ A secure, modern File Integrity Monitoring (FIM) tool with Public Key Infrastruc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/coolwaaris/fim-pki-tool.git
+git clone https://github.com/of-course-its-prajwal
+/fim-pki-tool.git
 cd fim-pki-tool
 ```
 
@@ -78,7 +79,9 @@ fim_pki_tool/
 ├── Dockerfile
 └── README.md
 ```
+📜 License
 
+This project is open-source. You may use or modify it for learning or research purposes.
 ---
 
 ## 👤 Author
@@ -90,3 +93,4 @@ fim_pki_tool/
 ---
 
 ## 🗓️ Last updated: 2026-01-10
+
